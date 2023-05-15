@@ -6,6 +6,6 @@ PENETRATION , HTML, CSS, PHP, PYTHON, BASH SCRIPT, JAVASCRIPT, AND ETC
 🧑‍💼 I'm working 🧠 I'm Studying  👩‍💻 I'm Learn Hacking 🍴 I'm Eating 😴 I'm Sleep And Repeating 🔁
 
 ## 🔗 My Links Is Wonderfull
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Profile Page](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 -
 

@@ -8,9 +8,7 @@ ______________________________________________________________________________
 PENETRATION , HTML, CSS, PHP, PYTHON, BASH SCRIPT, JAVASCRIPT, AND ETC
 
 ## My General Daily Routine
-🧑‍💼 I'm working 🧠 I'm Studying  👩‍💻 I'm Learn Hacking 🍴 I'm Eating 😴 I'm Sleep
-
-And Repeat 🔁
+🧑‍💼 I'm working 🧠 I'm Studying  👩‍💻 I'm Learn Hacking 🍴 I'm Eating 😴 I'm Sleep And Repeat 🔁
 
 ## 🔗 My Links Is Wonderfull
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)

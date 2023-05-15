@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**nerogativ13/nerogativ13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# WELCOME TO MY GITHUB 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----------------------------------------------------------
+Hello I am nerogativ13 nice to meet you 😄
+
+______________________________________________________________________________
+## 🛠 My Skills Is Wonderfull
+PENETRATION , HTML, CSS, PHP, PYTHON, BASH SCRIPT, JAVASCRIPT, AND ETC
+
+## My General Daily Routine
+🧑‍💼 I'm working 🧠 I'm Studying 
+
+👩‍💻 I'm Learn Hacking 🍴 I'm Eating 😴 I'm Sleep
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+And Repeat 🔁
+
+## 🔗 My Links Is Wonderfull
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+-
+

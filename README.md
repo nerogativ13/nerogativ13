@@ -1,10 +1,8 @@
 
-# WELCOME TO MY GITHUB 👋
-
+# WELCOME TO MY GITHUB 👋 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 -----------------------------------------------------------
 Hello I am nerogativ13 nice to meet you 😄
-
 ______________________________________________________________________________
 ## 🛠 My Skills Is Wonderfull
 PENETRATION , HTML, CSS, PHP, PYTHON, BASH SCRIPT, JAVASCRIPT, AND ETC
@@ -13,7 +11,6 @@ PENETRATION , HTML, CSS, PHP, PYTHON, BASH SCRIPT, JAVASCRIPT, AND ETC
 🧑‍💼 I'm working 🧠 I'm Studying 
 
 👩‍💻 I'm Learn Hacking 🍴 I'm Eating 😴 I'm Sleep
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 And Repeat 🔁
 

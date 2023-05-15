@@ -2,7 +2,7 @@
 # WELCOME TO MY GITHUB 👋 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 Hello I am nerogativ13 nice to meet you 😄
- 
+-
 ## 🛠 My Skills Is Wonderfull
 PENETRATION , HTML, CSS, PHP, PYTHON, BASH SCRIPT, JAVASCRIPT, AND ETC
 
